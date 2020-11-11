@@ -27,3 +27,8 @@ Below is the data dictionary for length of stay data.
 
 ## Proposed Methodology
 I will start with data cleaning and preparation and use holdout or cross validation to split training set and test set. Random forest will be conducted for classification. Finally, I will use accuracy, precision and recall to evaluate model performance. 
+
+## Random Forest
+![rf1 accruacy](https://user-images.githubusercontent.com/72762392/98865869-083f4780-243a-11eb-9517-65c76e52c356.JPG)
+
+![rf2 importance](https://user-images.githubusercontent.com/72762392/98865889-0ecdbf00-243a-11eb-982d-b28ef61ab2b8.JPG)
